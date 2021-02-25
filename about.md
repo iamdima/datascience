@@ -10,4 +10,4 @@ I am a data scientist and quant.
 
 ### Contact me
 
-[iam.drdre.x@gmail.com](mailto:iam.drdre.x@gmail.com)
+[iam.dima.th@gmail.com](mailto:iam.dima.th@gmail.com)
